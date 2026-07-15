@@ -1,5 +1,5 @@
 
-# 🚀 Zeest Media – Modern News & Media Platform
+# 🚀 Zeest Media - Modern News & Media Platform
 
 Zeest Media is a modern, high-performance news and media platform developed using **Next.js**, **React**, **Supabase**, and **Tailwind CSS**. The website was built to deliver a fast, responsive, and engaging experience for readers while providing a scalable backend for content management. With a clean user interface, optimized performance, and mobile-first design, the platform enables users to easily browse articles, explore categories, and stay updated with the latest news.
 
