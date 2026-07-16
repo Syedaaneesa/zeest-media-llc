@@ -72,7 +72,6 @@ Zeest Media is a modern, high-performance news and media platform developed usin
 
 **Project Type:** Client-based live website project
 
----
 
 ### ⭐ If you like this project, consider giving it a star!
 
