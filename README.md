@@ -5,7 +5,6 @@ Zeest Media is a modern, high-performance news and media platform developed usin
 
 **Live Website Link:** [https://zeestmedia.com/](https://zeestmedia.com/)
 
----
 
 ## 📌 Project Overview
 
@@ -17,7 +16,6 @@ Zeest Media is a modern, high-performance news and media platform developed usin
 * Optimized images and assets for enhanced loading speed
 * Scalable and maintainable application structure
 
----
 
 ## 🛠 Tools & Technologies Used
 
@@ -31,7 +29,6 @@ Zeest Media is a modern, high-performance news and media platform developed usin
 * **cPanel Deployment**
 * **Git & GitHub**
 
----
 
 ## 🎨 Design Process & Development
 
@@ -50,8 +47,6 @@ Zeest Media is a modern, high-performance news and media platform developed usin
 * **Testing & Responsiveness** – Thoroughly tested the application across multiple browsers and screen sizes to ensure consistent functionality and user experience.
 
 
----
-
 ## 🚀 Deployment & Maintenance
 
 * Deployed using **Vercel** for fast and reliable hosting
@@ -60,7 +55,6 @@ Zeest Media is a modern, high-performance news and media platform developed usin
 * Optimized build process for maximum performance
 * Regular updates and maintenance for security and feature enhancements
 
----
 
 ## 📖 Learnings & Takeaways
 
@@ -69,8 +63,6 @@ Zeest Media is a modern, high-performance news and media platform developed usin
 * Improved performance using server-side rendering and modern optimization techniques
 * Created reusable UI components with Tailwind CSS for faster development
 * Implemented SEO strategies to improve discoverability and user engagement
-
----
 
 ## 👩‍💻 Developer
 
